@@ -1,0 +1,2 @@
+# Introduction
+This repo will be used to provide some examples on how to integrate with [OSM (Online Scout Manager)](https://www.onlinescoutmanager.co.uk/). To be able to utilise the examples shown you will need to be a volunteer with a Scout group and have access to at least one section in OSM as a volunteer.
